@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'FROG Name Generator',
       theme: ThemeData(
-        primaryColor: Colors.green,
+        primaryColor: Colors.red,
       ),
       home: RandomWords(),
     );
